@@ -5,7 +5,7 @@ Navigation work at classes of *Vrtual Reality and Interaction*, (second part [he
 The subject of the work is below :
 
 ## 1 Introduction
-You will work with two scenes in the hierarchy. A 3D scene already built (for example by importing: village.unitypackage) and your own scene in which you will include everything necessary for navigation and interaction. Only the latter will have to be rendered (export of the scene as a unity package).
+You will work with two scenes in the hierarchy. A 3D scene already built (for example by importing: [village.unitypackage](https://www.fil.univ-lille1.fr/~aubert/rvi/village.unitypackage)) and your own scene in which you will include everything necessary for navigation and interaction. Only the latter will have to be rendered (export of the scene as a unity package).
 
 > Question 1: Create 2 cameras and a UI with 2 buttons to activate one or the other camera. 
 Test.
