@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="TP4 - Navigation.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MedievalTownExteriors\Script\firstPerson.cs">
+    <Files>
+      <File FileName="Assets\MedievalTownExteriors\Script\switchCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\MedievalTownExteriors\Script\firstPerson.cs" Line="75" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
